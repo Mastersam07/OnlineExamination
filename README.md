@@ -1,7 +1,7 @@
 # cbtSoftware
 An online examination platform designed in HTML, CSS, JS, PHP and MYSQL
 
-[![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Mastersam07/cbtSoftware/issues)
+[![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Mastersam07/OnlineExamination/issues)
 
 ## How To Use This Software
 Ensure that you have wamp/xampp/lampp installed on your machine
