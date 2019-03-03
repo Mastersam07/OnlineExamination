@@ -9,7 +9,7 @@ Ensure that you have wamp/xampp/lampp installed on your machine
 * Clone this repository
 * Copy this repository into www directory of wamp/lamp/xampp
 * Run wamp/lamp/xampp
-* Create database project with required tables, rows and columns
+* Create database <b>project</b> with required tables, rows and columns
 * Run localhost
 * Project is up and running
 
