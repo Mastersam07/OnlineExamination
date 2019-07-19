@@ -13,3 +13,5 @@ Ensure that you have wamp/xampp/lampp installed on your machine
 * Run localhost
 * Project is up and running
 
+Probelm reproducing this? Contact me at: abadasamuelosp@gmail.com.
+This software keep throwing errors or bugs to be fixed? Create an issue. I will look into it as soon as possible.
